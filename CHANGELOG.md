@@ -1,3 +1,6 @@
+### 0.10.1
+- Fix Android
+
 ### 0.10.0
 - Fix horizontal scroll in RN v0.28 (@sghiassy, @dmccer)
 
